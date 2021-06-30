@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/xunle1/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=axunle1&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/xunle1/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xunle1&repo=convoychat" />
 </a>
 <!-- 
